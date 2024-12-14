@@ -1,3 +1,4 @@
-var a=10
-a=5
-console.log(a)
+var a=10;
+var b=5;
+var c=a+b;
+console.log(c)
